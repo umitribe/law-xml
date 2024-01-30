@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <heading>Law Library</heading>
+  <heading>Upper Mattaponi Indian Tribe Law Library</heading>
   <meta>
-    <description></description>
+    <description/>
     <contact>
       <email>help@openlawlib.org</email>
     </contact>
@@ -10,7 +10,12 @@
       <xml-bulk>https://github.com/umitribe/law-xml</xml-bulk>
       <html-bulk>https://github.com/umitribe/law-html</html-bulk>
       <static-assets>https://github.com/umitribe/law-static-assets</static-assets>
-      <html></html>
+      <html/>
     </canonical-urls>
   </meta>
+  <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
+  <collection name="us/nsn/umitribe/council/resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/umitribe/council/resolutions/2023/index.xml"/>
+  </collection>
 </library>
