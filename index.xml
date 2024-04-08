@@ -17,6 +17,7 @@
   <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
   <collection name="us/nsn/umitribe/council/resolutions">
     <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/umitribe/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/umitribe/council/resolutions/2023/index.xml"/>
   </collection>
 </library>
