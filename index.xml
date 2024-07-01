@@ -15,6 +15,7 @@
     <history-start>2023-07-21</history-start>
   </meta>
   <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/code/index.xml"/>
   <xi:include href="./us/nsn/umitribe/council/resolutions-bills-orders.xml"/>
-  <xi:include href="./us/nsn/umitribe/council/legislative-rules/index.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/legislative_rules/index.xml"/>
 </library>
