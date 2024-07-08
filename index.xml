@@ -20,4 +20,5 @@
     <xi:include href="./us/nsn/umitribe/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/umitribe/council/resolutions/2023/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/umitribe/council/legislative_rules/index.xml"/>
 </library>
