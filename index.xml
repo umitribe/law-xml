@@ -10,7 +10,7 @@
       <xml-bulk>https://github.com/umitribe/law-xml</xml-bulk>
       <html-bulk>https://github.com/umitribe/law-html</html-bulk>
       <static-assets>https://github.com/umitribe/law-static-assets</static-assets>
-      <html/>
+      <html>https://law.umitribe.org</html>
     </canonical-urls>
     <history-start>2023-07-21</history-start>
   </meta>
