@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2023-09">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2023-09" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-09</num>
   <heading>The Executive, Legislative, and Judicial Branches Contracting Authority Act of 2023</heading>
   <meta>
@@ -15,11 +15,11 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("Constitution") to assert the Tribe's sovereign authority as a federally-recognized Indian tribe; and,</text>
+      <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>") to assert the Tribe's sovereign authority as a federally-recognized Indian tribe; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>The Constitution vests the Council with the authority to enact laws and budget resolutions; and,</text>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> vests the Council with the authority to enact laws and budget resolutions; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -38,31 +38,33 @@
     <text class="center">
       <strong>CERTIFICATION</strong>
     </text>
-    <text>The foregoing resolution was duly voted upon by the Council on <u>September 20</u>, 2023, at a Regular Meeting with a vote of <u>5</u> in favor and <u>Ø</u> opposed, <u>Ø</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
-    <text>____________________________________</text>
-    <text>Speaker of the Council</text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>September 20</u>, 2023, at a Regular Meeting with a vote of <u>5</u> in favor and <u>Ø</u> opposed, <u>Ø</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="45|2"/>
     <section>
-      <num>1.1</num>
+      <codify:insert/>
+      <num codify:value="201">1.1</num>
       <heading>Short Title</heading>
-      <text>This enactment shall be known as, the "THE EXECUTIVE, LEGISLATIVE, AND JUDICIAL BRANCHES CONTRACTING AUTHORITY ACT OF 2023 ("Act").</text>
+      <text><code-cite doc="Upper Mattaponi Tribe Res. No. 2023-009" path="|attachments|law">This enactment</code-cite> shall be known as, the "THE EXECUTIVE, LEGISLATIVE, AND JUDICIAL BRANCHES CONTRACTING AUTHORITY ACT OF 2023 ("Act").</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert/>
+      <num codify:value="202">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of the Act is to authorize each branch of government to contract for services and supplies in accordance with funds appropriated for such purposes in an approved budget.</text>
+      <text>The purpose of <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-009" path="|attachments|law">the Act</code-cite> is to authorize each branch of government to contract for services and supplies in accordance with funds appropriated for such purposes in an approved budget.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert/>
+      <num codify:value="203">1.3</num>
       <heading>Findings</heading>
       <para>
         <num>(a)</num>
-        <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("Constitution") to assert the Tribe's sovereign authority as a federally-recognized Indian tribe; and,</text>
+        <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>") to assert the Tribe's sovereign authority as a federally-recognized Indian tribe; and,</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Constitution vests the Council with the authority to enact laws and budget resolutions; and,</text>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> vests the Council with the authority to enact laws and budget resolutions; and,</text>
       </para>
       <para>
         <num>(c)</num>
@@ -74,19 +76,20 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert/>
+      <num codify:value="204">1.4</num>
       <heading>Executive Branch Authorization to Contract</heading>
       <para>
         <num>(a)</num>
-        <text>The Chief and executive branch personnel shall not have the power to enter into contracts on behalf of the Tribe unless authorized to do so by law enacted by the Legislature or as otherwise authorized by this Act.</text>
+        <text>The Chief and executive branch personnel shall not have the power to enter into contracts on behalf of the Tribe unless authorized to do so by law enacted by the Legislature or as otherwise authorized by <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-008" path="|attachments|law">this Act</code-cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The contracting process for the Tribe to enter into any contract shall include the following steps in the following order: (1) authorization to contract in a law enacted by the Council including this Act, or by decision of the Council including Department and program enabling laws; (2) selection of the vendor or contracting party pursuant to procurement policies, and negotiation and execution of the contract by the Chief or an authorized designee; (3) ratification of the contract by the Council, but only when the authorizing law expressly reserves the power to the Council to ratify the contract.</text>
+        <text>The contracting process for the Tribe to enter into any contract shall include the following steps in the following order: (1) authorization to contract in a law enacted by the Council including <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-008" path="|attachments|law">this Act</code-cite>, or by decision of the Council including Department and program enabling laws; (2) selection of the vendor or contracting party pursuant to procurement policies, and negotiation and execution of the contract by the Chief or an authorized designee; (3) ratification of the contract by the Council, but only when the authorizing law expressly reserves the power to the Council to ratify the contract.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon authorization in a law or by this Act, the Chief, and executive branch personnel and subdivisions authorized by the Chief, shall have the power to select the vendor or contracting party in accordance with applicable procurement laws and policies, negotiate the contract terms with the vendor or contracting party, and enter into a contract with the vendor or contracting party on behalf of the Tribe subject to any limitations or conditions placed on the executive branch in the authorizing law including but not limited to the power of the Council to require ratification of a contract by the Council.</text>
+        <text>Upon authorization in a law or by <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-008" path="|attachments|law">this Act</code-cite>, the Chief, and executive branch personnel and subdivisions authorized by the Chief, shall have the power to select the vendor or contracting party in accordance with applicable procurement laws and policies, negotiate the contract terms with the vendor or contracting party, and enter into a contract with the vendor or contracting party on behalf of the Tribe subject to any limitations or conditions placed on the executive branch in the authorizing law including but not limited to the power of the Council to require ratification of a contract by the Council.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -94,11 +97,12 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Any expenditure of funds by the executive branch of government shall be done in accordance with the available funds appropriated in an approved budget in accordance with the requirements of the Constitution.</text>
+        <text>Any expenditure of funds by the executive branch of government shall be done in accordance with the available funds appropriated in an approved budget in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
       </para>
     </section>
     <section>
-      <num>1.5</num>
+      <codify:insert/>
+      <num codify:value="205">1.5</num>
       <heading>Legislative Branch Authorization to Contract</heading>
       <para>
         <num>(a)</num>
@@ -118,7 +122,8 @@
       </para>
     </section>
     <section>
-      <num>1.6</num>
+      <codify:insert/>
+      <num codify:value="206">1.6</num>
       <heading>Judicial Branch Authorization to Contract</heading>
       <para>
         <num>(a)</num>
