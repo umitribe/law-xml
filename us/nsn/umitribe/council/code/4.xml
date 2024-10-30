@@ -53,4 +53,14 @@
     <num>10</num>
     <heading>Human Resources Department</heading>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11</num>
+    <heading>The Department of Health Enabling Act</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21</num>
+    <heading>The Executive, Legislative, and Judicial Branches Contracting Authority Act</heading>
+  </container>
 </container>
